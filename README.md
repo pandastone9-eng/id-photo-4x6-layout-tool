@@ -39,7 +39,13 @@
    python3 -m pip install -r requirements.txt
    ```
 
-3. 双击 `一键生成证件照.command`，或在终端运行：
+3. 首次使用时，为双击启动脚本添加执行权限：
+
+   ```bash
+   chmod +x 一键生成证件照.command
+   ```
+
+4. 双击 `一键生成证件照.command`，或在终端运行：
 
    ```bash
    python3 id_photo_tool.py
