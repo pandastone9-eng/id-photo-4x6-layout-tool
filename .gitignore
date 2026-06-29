@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+.venv/
+venv/
+证件照输出/
+.id_photo_print_tool_config.json
+
