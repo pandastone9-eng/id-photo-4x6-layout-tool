@@ -1,5 +1,7 @@
 # 证件照 4×6 自动排版工具
 
+<img width="1147" height="973" alt="证件照 4×6 自动排版工具界面预览" src="https://github.com/user-attachments/assets/1f26abfa-8ec9-4df7-a0c8-b296f268fb55" />
+
 一个运行在 macOS 桌面的证件照裁切与打印排版工具。导入照片后，可按常用证件照尺寸裁切、微调人像，并生成适合 4×6 英寸相纸打印的 300 DPI JPG。
 
 图片只在本机处理，不会上传到网络。
